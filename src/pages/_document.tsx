@@ -11,10 +11,6 @@ export default function Document() {
           rel="stylesheet"
         ></link>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta
-          name="google-site-verification"
-          content="K5f6uNahkVFJ_uojt9wTyfpwCG00fXK1nVCEs1movuc"
-        />
         <title>Course</title>
       </Head>
       <body>
